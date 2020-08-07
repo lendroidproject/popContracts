@@ -1,0 +1,33 @@
+{
+  "name": "popcontracts",
+  "version": "1.0.0",
+  "description": "REC - Pie wing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lendroidproject/popContracts.git"
+  },
+  "keywords": [
+    "Upgrabable",
+    "Rightshare",
+    "Pie"
+  ],
+  "author": "Lendroid Foundation",
+  "license": "https://github.com/lendroidproject/Rightshare-contracts/blob/master/LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/lendroidproject/popContracts/issues"
+  },
+  "homepage": "https://github.com/lendroidproject/popContracts#readme",
+  "dependencies": {
+    "web3": "latest",
+    "openzeppelin-solidity": "3.1.0",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/upgrades": "^2.8.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/cli": "^2.8.2"
+  }
+}
